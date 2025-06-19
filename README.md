@@ -1,20 +1,10 @@
-# itis_TSN_ScientificName
+# 🐟 Integrating Taxonomic Serial Numbers (TSNs) of Great Lakes Fishes from ITIS SQLite Database 
 
-# 🐟 ITIS SQLite Database Processing
+- **ITIS (Integrated Taxonomic Information System)** is a standardized and authoritative database of taxonomic information on plants, animals, fungi, and microbes, maintained collaboratively by U.S., Canadian, and Mexican government agencies.
 
-This project uses the **ITIS.sqlite** file from the [Integrated Taxonomic Information System (ITIS)](https://www.itis.gov/downloads) to build a clean reference list of species, combining scientific names and common names for organisms — with a focus on valid entries in the **Animal kingdom**.
+- This project uses the **ITIS.sqlite** file from the [Integrated Taxonomic Information System (ITIS)](https://www.itis.gov/downloads) to build a clean reference list of species, combining scientific names and common names for organisms - with a focus on valid entries in the **Animal kingdom**. 
 
----
-
-## 📦 What is ITIS?
-
-The **ITIS.sqlite** file is the SQLite version of the Integrated Taxonomic Information System (ITIS). It provides standardized taxonomic information on:
-
-- Animals
-- Plants
-- Fungi
-- Microbes
-
+- The **ITIS.sqlite** file is the SQLite version of the Integrated Taxonomic Information System (ITIS). It provides standardized taxonomic information on Animals, Plants, Fungi, Microbes. 
 This includes scientific names, common names, hierarchical relationships, synonym tracking, and authorship details.
 
 ---
